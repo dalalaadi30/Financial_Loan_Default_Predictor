@@ -1,0 +1,3 @@
+Kaggle - Synthetic Financial Datasets For Fraud Detection (Synthetic dataset, great for practicing anomaly detection).
+
+LINK :  https://www.kaggle.com/datasets/ealaxi/paysim1
