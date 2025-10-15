@@ -1,0 +1,14 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data & model files
+data/*.csv
+models/*.pkl
+
+# Environment & OS files
+.env
+.DS_Store
